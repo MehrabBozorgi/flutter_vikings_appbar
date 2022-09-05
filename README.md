@@ -1,16 +1,7 @@
 # flutter_vikings_appbar
 
-A new Flutter project.
+✋
+Watch tutorial: https://youtu.be/2wjDpMXsWfY
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+👇👇
+![Untitled-1](https://user-images.githubusercontent.com/78899995/188467002-f1a3180c-09cb-47cc-aba0-dd88333a690d.jpg)
